@@ -7,9 +7,9 @@
     "Store",
     "Files"
   ],
-  "logo": "https://telegra.ph/file/bdd3352951be090a56590.jpg",
+  "logo": "",
   "success_url": "https://telegram.dog/filestore_Nsbot",
-  "website": "https://github.com/Ns-Bots/TG-File-Store",
+  "website": "",
   "repository": "https://github.com/Ns-Bots/TG-File-Store",
   "env": {
     "WEBHOOK": {
